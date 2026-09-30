@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+backend/app/data/students.json
+backend/app/data/*.tmp
